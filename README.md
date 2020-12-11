@@ -12,3 +12,4 @@ To run the client and server module, the following command should be used in the
 ```
 npm run dev
 ```
+Author: Fernando Amaral Musso
